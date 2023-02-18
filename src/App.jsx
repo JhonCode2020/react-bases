@@ -7,6 +7,9 @@ import PropiedadesEnUnFunctionalComponent from './conceptosReact/03-PropiedadesD
 import EstadoEnUnClassComponent from './conceptosReact/02-EstadoEnReact/EstadoEnUnClassComponent';
 import EstadoEnUnFunctionalComponent from './conceptosReact/02-EstadoEnReact/EstadoEnUnFunctionalComponent';
 
+import IterandoClassComponentsConMap from './conceptosReact/04-metodoMapParaIterarComponentes/IterandoClassComponentsConMap';
+import IterandoFunctionalComponentsConMap from './conceptosReact/04-metodoMapParaIterarComponentes/IterandoFunctionalComponentsConMap';
+
 const App = () => {
   return (
     <div>
@@ -18,6 +21,9 @@ const App = () => {
 
       <EstadoEnUnClassComponent />
       <EstadoEnUnFunctionalComponent />
+
+      <IterandoClassComponentsConMap />
+      <IterandoFunctionalComponentsConMap />
     </div>
   );
 };

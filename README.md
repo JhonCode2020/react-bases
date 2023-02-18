@@ -24,4 +24,4 @@ y entender React de la mejor manera.
 2. El concepto de estado en React
 3. Uso y creación de propiedades de componente
 4. Uso de del método map para iterar componentes a partir de un estado
-5. Uso del filter para filtrar un estado
+
